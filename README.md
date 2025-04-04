@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Tailwind Css and PHP**
 
 - 📫 How to reach me **Discord: Weeisy**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
